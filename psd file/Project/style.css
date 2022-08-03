@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.main-con{
+    width: 670px;
+    height: 1400px;
+    margin: 0 auto;
+    border: 5px solid #ececec;
+}
+.container{
+    width: 604px;
+    margin: auto;
+    
+}
+.header-top{
+    width: 100%;
+    float: left;
+    margin: 25px 0 25px 0;
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.add{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 50%;
+    text-align: right;
+    float: left;
+    margin: 0px;
+}
+.add span{
+    font-weight: bold;
+    width: 100%;
+    float: left;
+    padding-bottom: 10px;
+}
+.add a{
+    color: #65ac00;
+    text-decoration: none;
+}
+.header-bottom{
+    width: 100%;
+    float: left;
+    position: relative;
+    top: -50px;
+} 
+.banner p{
+    text-align: center;
+    position: relative;
+    top: 85px;
+    left: 170px;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 0px;
+}
+.banner span{
+    width: 100%;
+    float: left;
+    text-align: right;
+    position: relative;
+    top: -62px;
+    right: 15px;
+}
+.banner span a{
+    margin: right 3px;
+}
+.left{
+    width: 400px;
+    float:left ;
+    
+    
+    
+}
+.content{
+    float: left;
+    position: relative;
+    top: -85px;
+}
+.left h2{
+    font-family:Georgia ;
+    font-size: 25px;
+    color: #65ac00;
+    font-weight: normal;
+}
+.left a{
+    color: #0099cc;
+    text-decoration: none;
+    float: left;
+    text-align: right;
+    width: 100%;
+    border-bottom: 2px solid #e2e2e2;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.left img{
+    margin: 20px 0;
+}
+.bor{
+    border-bottom: 2px solid #e2e2e2;
+    padding: bottom 20px;
+}
+.nostyle{
+    border: none !important;
+}
+.right{
+    width: 194px;
+    float: right;
+    margin-left: 10px;
+    
+}
+.right h2{
+    background-color: #8cc140;
+    color: #fff;
+    font-family: Georgia;
+    font-size: 20px;
+    margin: 20px 0 0 5px;
+    padding: 7px;
+}
+.right p{
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.right a{
+    color: #8cc140;
+    text-decoration: none;
+}
+.right img{
+    margin: 10px 0;
+}
+.he{
+    margin-bottom: 40px !important;
+}
